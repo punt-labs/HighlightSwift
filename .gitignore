@@ -7,3 +7,6 @@ DerivedData/
 .swiftpm/config/registries.json
 .swiftpm/xcode/package.xcworkspace
 .netrc
+
+# ethos: machine-local files (.local.*) — may hold secrets, never track
+.punt-labs/**/*.local.*
